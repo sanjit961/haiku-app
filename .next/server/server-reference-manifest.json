@@ -1,0 +1,17 @@
+{
+  "node": {
+    "7fe8c529a1eeff4bd1ef48d2a210c6d8825ed2a000": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cour%20-haiku-app%5C%5Capp%5C%5Cactions%5C%5CuserController.js%22%2C%5B%5B%227fe8c529a1eeff4bd1ef48d2a210c6d8825ed2a000%22%2C%22register%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "K6DdFME7KvJD3pcYO9SNLeHtPTyXuG0WX8VRnFvTGew="
+}
